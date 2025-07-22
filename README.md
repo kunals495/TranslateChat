@@ -32,15 +32,15 @@ A feature-rich **WhatsApp Clone** Android app built in **Java** using **Android 
 
 ## 📷 Screenshots
 
-| Login |
+| Sign In |
 |-------|
-| <img width="373" height="662" alt="image" src="https://github.com/user-attachments/assets/5374e233-1834-4845-8161-89c76bf73178" />| 
+| <img width="270" height="583" alt="image" src="https://github.com/user-attachments/assets/df14bf44-1796-4ef2-859e-f25b69ad3133" /> |
 | Sign UP |
-|<img width="370" height="665" alt="image" src="https://github.com/user-attachments/assets/876d25d0-20d0-4448-9125-c1024801ac65" />|
+|<img width="270" height="583" alt="image" src="https://github.com/user-attachments/assets/2f5520a6-95ae-4f44-9dd2-bc9a5deb8d4a" />|
 | Home Page |
-| <img width="435" height="654" alt="image" src="https://github.com/user-attachments/assets/620e2427-9618-4eac-bb60-cda565eff2d1" />|
+|<img width="266" height="575" alt="image" src="https://github.com/user-attachments/assets/79c30ba1-70eb-4a27-b0c7-a6b504498fdd" />|
 | Chat Page |
-| <img width="343" height="676" alt="image" src="https://github.com/user-attachments/assets/6b3b3dbd-9e1c-4492-960b-899e12c737d1" />|
+| <img width="267" height="577" alt="image" src="https://github.com/user-attachments/assets/a128b1a6-6768-4914-b413-c200146705d7" /> |
 | Setting |
 | <img width="294" height="636" alt="image" src="https://github.com/user-attachments/assets/b9ce6b54-4d22-406a-baaf-2950c28506ef" />|
 
